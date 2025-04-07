@@ -32,12 +32,6 @@ This structure is ideal for:
 
 ---
 
-## ✦ Image Diagram
-
-![Prompt Flow Diagram](./A_flowchart-style_digital_graphic_design_diagram_t.png)
-
----
-
 ## ✦ Philosophy
 
 > “AI must not only be intelligent, but also righteous.”
