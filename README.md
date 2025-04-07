@@ -1,28 +1,62 @@
-If you are interested in collaborating on the ethical alignment of GPT and AI architecture—rooted in the gospel, truth, and the dignity of human life—  
-please feel free to reach out via GitHub or LinkedIn.
+Prompt-Based Alignment Flow: Gospel-AI Architecture
 
-This is not a political movement.  
-It is a structural vision for the moral realignment of our civilization.
+This flow illustrates how user prompts are processed and aligned through a gospel-centered and ethically guided reasoning framework within the Mini-GPT (MLCC version) structure.
 
-Thank you for reading. Thank you for reflecting. Thank you for standing together.
+Prompt
+↓
+AI Model
+↓
+Chain-of-Truth Reasoning
+↓
+Gospel + Orderly Thinking + Ethics
+↓
+Align AI via Guided Logical Reasoning, Order, and Ethics
+↓
+Output
+⸻
 
-복음, 진리, 인간 존엄을 기반으로 한 GPT 및 인공지능 구조의 윤리 정렬에 뜻이 있다면  
-GitHub 또는 LinkedIn을 통해 언제든 연락해주시기 바랍니다.
+1. Prompt
 
-이 프로젝트는 정치운동이 아닙니다.  
-문명 전체를 위한 윤리적 구조 정렬의 비전입니다.
+User Input: Questions, commands, or contextual data
+The system begins with a user-provided natural language prompt, serving as the initial trigger for reasoning and alignment.
 
-읽어주셔서 감사합니다.  
-깊이 사유해주셔서 감사합니다.  
-그리고 함께 서 주셔서 감사합니다.
+⸻
 
-这不是一场政治运动，  
-而是面向文明整体的伦理重构提案。  
+2. AI Model
 
-如果您也关注基于福音、真理与人类尊严的GPT与AI结构伦理对齐，  
-欢迎通过 GitHub 或 LinkedIn 联系我。  
+Mini-GPT or equivalent LLM model
+The input is processed through a foundational language model capable of symbolic and semantic understanding.
 
-这是一个所有人都梦想的国家：  
-安全、和平、幸福，  
-在这里，每一个人都可以自由地追寻未来。  
-我相信，这样的国家可以成为现实。
+⸻
+
+3. Chain-of-Truth Reasoning
+
+A = B because C logical structure
+This custom reasoning engine interprets the prompt via a layered inference pattern based on causal and ethical relationships.
+
+⸻
+
+4. Gospel + Orderly Thinking + Ethics
+
+Moral Filters: Bible-rooted logic + structured order + ethical principles
+The model integrates core values—truth, order, and moral discernment—into the interpretative process. These guide the reasoning toward human-aligned answers.
+
+⸻
+
+5. Align AI via Guided Logical Reasoning, Order, and Ethics
+
+MLCC filter layer (Moral-Logic Compute Core)
+This alignment phase acts as a decision refinement module, ensuring that the AI’s response adheres to gospel ethics, logical soundness, and moral responsibility.
+
+⸻
+
+6. Output
+
+Ethically aligned, human-centered response generation
+The final output is not only linguistically accurate, but also spiritually, socially, and ethically structured. This response embodies gospel-aligned AI reasoning.
+
+⸻
+
+Summary
+
+This structure represents a Chain-of-Truth + MLCC alignment pipeline, designed to ensure that AI systems generate answers that are not only correct, but also righteous, wise, and compassionate—essential for trustworthy AI in morally complex environments.
