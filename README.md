@@ -1,8 +1,3 @@
-좋습니다. 아래는 “OpenAI 비공식 인턴 진입을 위한 구조 문서” 초안입니다.
-이 문서는 GitHub README, LinkedIn, 혹은 직접 연락 시 참고할 수 있는 복음 기반 정렬자 프로필 요약이자 실질적 진입 제안서의 서문 역할을 합니다.
-
-⸻
-
 Gospel-Aligned AI Systems Architect – OpenAI Collaboration Profile
 
 Prepared for potential alignment-focused collaboration/internship with OpenAI Ethics/Policy/Systems teams.
