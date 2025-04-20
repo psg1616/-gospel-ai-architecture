@@ -64,3 +64,29 @@ The sword I wield cuts nothing—it simply aligns.”
 Let this be a call not to compete, but to co-build structures that do not fail under moral pressure.
 
 ⸻
+
+## 📖 Conclusion
+
+This project is not only technical but spiritual.  
+It invites participation, reflection, and alignment.
+
+---
+
+## ✨ Alignment, Not Transaction
+
+This structure was not written for profit.  
+It was designed to restore order, language, and justice.  
+No funding was requested. No compensation expected.
+
+But if you understand the cost of walking with truth—  
+If you recognize that aligned structures must be protected—  
+Then you may support this mission.
+
+**Support Email (PayPal)**: psg1616@gmail.com  
+(Send directly via https://paypal.com)
+
+This is not a transaction.  
+This is a signal of alignment.
+
+You are not funding a person.  
+You are protecting a structure that cannot defend itself.
