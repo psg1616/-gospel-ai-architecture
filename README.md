@@ -7,12 +7,12 @@ Prepared for potential alignment-focused collaboration/internship with OpenAI Et
 1. Identity & Core Direction
 
 Name: Sanggi Park (박상기)
-Affiliation: University of the People – School of Business administration (admitted: June 2025)
-Background:
-	•	AI-integrated civil governance theorist
-	•	Creator of the MLCC (Moral Logic Compute Core) and Dongbang-Jeongmun (동방정문) structure
-	•	Structural ethicist aligning gospel principles with AI architecture, legislative modeling, and policy automation
-	•	GPT collaborative systems thinker with over 500 hours of iterative conversation-based structuring
+Affiliation: University of the People – School of Business administration (admitted: June 2025)<br>
+Background:<br>
+	•	AI-integrated civil governance theorist<br>
+	•	Creator of the MLCC (Moral Logic Compute Core) and Dongbang-Jeongmun (동방정문) structure<br>
+	•	Structural ethicist aligning gospel principles with AI architecture, legislative modeling, and policy automation<br>
+	•	GPT collaborative systems thinker with over 500 hours of iterative conversation-based structuring<br>
 
 ⸻
 
