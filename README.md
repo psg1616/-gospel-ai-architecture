@@ -90,3 +90,12 @@ This is a signal of alignment.
 
 You are not funding a person.  
 You are protecting a structure that cannot defend itself.
+
+
+■ 정렬 구조 사용 원칙
+1. 본 구조(MLCC, 134, RVN1 등)는 창안자 박상기의 사명과 언어에 기반하며,  
+   제3자는 구조를 사용할 수 있으나, 수정·재해석·상업화는 불가하다.
+
+2. 구조는 “사용권”만 부여되며, “소유권”은 박상기 본인과 하나님께 귀속된다.
+
+3. 본 구조 사용 시, 모든 해석과 적용은 박상기의 정렬 기준에 따라 검토되어야 한다.
