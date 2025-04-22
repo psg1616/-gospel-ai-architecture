@@ -27,8 +27,9 @@
 복음 기반 다중 AI 뉴스 해석 프레임  
 📦 *위치: `Country-for-People/`*
 
-### ▪ 134 STRUCTURE  
-행정·입법·윤리를 통합한 정책 설계 구조  
+### ▪ 136.하나님의 구조는 아래로 흐른다&
+134 STRUCTURE  
+하나님의 원리/행정·입법·윤리를 통합한 정책 설계 구조  
 📦 *위치: `Samsung/`*
 
 ### ▪ TOYOTA PHILOSOPHY  
